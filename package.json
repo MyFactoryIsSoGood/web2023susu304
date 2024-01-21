@@ -1,0 +1,15 @@
+{
+  "name": "web2023susu304",
+  "version": "1.0.0",
+  "description": "КЭ - 304, 3 курс, ПИ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
