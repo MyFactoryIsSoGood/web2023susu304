@@ -163,5 +163,3 @@ module.exports = {
     sequence,
     deepEqual,
 };
-
-console.log(deepEqual({object: 1, value: "a"}, {object: 1, value: "a"}))
